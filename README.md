@@ -1,1 +1,1 @@
-# odin-recipes
+Applied the concepts of html learnt so far
